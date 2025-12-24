@@ -62,7 +62,7 @@ canvas {
 #containerzero #info {
     font-size: 1rem;
     font-weight: lighter;
-    margin-top: 20px;
+    margin-top: 200px;
     position: absolute;
     z-index: 2;
     bottom: 0;
